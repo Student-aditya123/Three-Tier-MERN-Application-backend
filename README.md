@@ -1,4 +1,4 @@
-# Student Management System – Backend
+# THREE-TIER MERN APPLICATION – Backend
 
 A Node.js and Express-based REST API for a Student Management System, integrated with **MongoDB** for database operations and **AWS S3** for cloud-based file storage.
 
